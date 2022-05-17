@@ -1,0 +1,3 @@
+-r requirements.txt
+httpie==3.2.1
+pytest==7.1.2
